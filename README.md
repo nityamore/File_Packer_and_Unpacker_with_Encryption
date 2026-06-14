@@ -22,14 +22,14 @@ This project demonstrates practical implementation of **File Handling, Data Secu
 
 ## ✨ Features
 
-✅ Pack multiple `.txt` files into a single file
-✅ Encrypt file content during packing
-✅ Decrypt file content during unpacking
-✅ Restore original file names and content
-✅ Fixed-size header implementation (100 bytes)
-✅ Command-line execution
-✅ Efficient file handling using buffers
-✅ Secure file transfer using XOR encryption
+* Pack multiple `.txt` files into a single file
+* Encrypt file content during packing
+* Decrypt file content during unpacking
+* Restore original file names and content
+* Fixed-size header implementation (100 bytes)
+* Command-line execution
+* Efficient file handling using buffers
+* Secure file transfer using XOR encryption
 
 ---
 
