@@ -1,9 +1,10 @@
 # File_Packer_and_Unpacker_with_Encryption
 Java based file utility tool for packing and unpacking files with encryption
 
-# 📦 File Packing and Unpacking System with Encryption
+# 📦 File Packing and Unpacking with Encryption
 
 A Java-based project that securely **packs multiple text files into a single file** and later **unpacks them back to their original format** using **XOR Encryption** for data security.
+To enhance security, the packed file is encrypted, and only authorized users can decrypt and extract the data
 
 ---
 
