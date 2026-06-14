@@ -187,7 +187,7 @@ javac Packing.java
 ### Step 2: Execute
 
 ```bash
-java program606
+java Packing
 ```
 
 ### Sample Input
@@ -220,7 +220,7 @@ javac Unpacking.java
 ### Step 2: Execute
 
 ```bash
-java program614
+java Unpacking
 ```
 
 ### Sample Input
