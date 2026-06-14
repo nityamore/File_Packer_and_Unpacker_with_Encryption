@@ -316,9 +316,9 @@ The project can be enhanced with:
 
 ## 👨‍💻 Author
 
-**Name:** Nitya Rajesh More
-**Project:** File Packing and Unpacking with Encryption
-**Language:** Java
+* **Name:** Nitya Rajesh More
+* **Project:** File Packing and Unpacking with Encryption
+* **Language:** Java
 
 ---
 
